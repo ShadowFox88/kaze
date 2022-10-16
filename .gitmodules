@@ -1,0 +1,7 @@
+[submodule "src/ReplicatedStorage/ThirdParty/ProfileService"]
+	path = src/ReplicatedStorage/ThirdParty/ProfileService
+	url = https://github.com/MadStudioRoblox/ProfileService.git
+[submodule "src/ReplicatedStorage/Utils"]
+	path = src/ReplicatedStorage/Utils
+	url = https://github.com/cyrus01337/utils.git
+	branch = luau
